@@ -1,9 +1,9 @@
 {
   "name": "flashcc2531",
-  "version": "14",
+  "version": "15",
   "slug": "flashcc2531",
   "description": "Flash Zigbee USBStick CC2531",
-  "url":"https://github.com/imthemichi/hassio-flashcc2531",
+  "url":"https://github.com/plag/hassio-flashcc2531",
   "arch": ["armhf", "armv7", "aarch64"],
   "startup": "once",
   "boot": "manual",
